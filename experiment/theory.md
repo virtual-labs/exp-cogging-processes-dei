@@ -1,6 +1,7 @@
 ### Theory
 Cogging is a metalworking process used to improve the grains of a piece of metal. It is a hot metal forging technique involving two dies with shaped surfaces. The term "cogging" come from the fact that the metal is meant to be pressed into the shape of the die in the same way two cogs will fit into each other, though the shape of the die is not always rectangular.
 <br>
+<div align="center">
 <table align="center">
   <tr valign="top">
     <td align="center" width="350">
@@ -13,6 +14,7 @@ Cogging is a metalworking process used to improve the grains of a piece of metal
     </td>
   </tr>
 </table>
+</div>
 <br>
 Cogging is often an intermediate stage in the metalworking process. It is used to change the internal structure of ingots. An ingot is formed after raw metals have first been melted, then poured into moulds. The metal is then easier to handle, but will need to undergo further forging and tempering before it can be used. After cogging billets are refined pieces of metal which can then be forged or cast into more complex components.
 
@@ -23,6 +25,7 @@ During the cogging process, the ingot becomes a little longer with each blow. As
 Cogging metal is a long process that requires many adjustments. The metal will need to be reheated between strikes so that it remains malleable. The ingot may need hundreds of blows along its length before it reaches the desired shape and strength. Some forging machines have been developed to make this process easier. The number of strikes and the amount of force used can be programmed in so that the ingot remains uniform.
 Let us take an example of forming of round billet into square billet by simple cogging simulation.
 <br>
+<div align="center">
 <table align="center" style="border-collapse: separate; border-spacing: 30px 30px; border: none;">
   <tr>
     <td align="center" width="350" style="border: none;">
@@ -45,10 +48,12 @@ Let us take an example of forming of round billet into square billet by simple c
     </td>
   </tr>
 </table>
+</div>
 <br>
 
 <b>Hexagonal billet</b> forming by cogging process is similar to that of square billet formation,but with difference that billet is rotated through 600 instead of 900 after each pass. So the number of passes increases with the complexity of shape and the thickness to be reduced.During the cogging process the coarse grain structure is broken up and replaced by finer grains. Low-density areas, micro-shrinkage and gas porosity inherent in the cast metal are consolidated through the reduction of the ingot, achieving sound canters and structural integrity.
 <br>
+<div align="center">
 <table align="center">
     <td align="center" width="350">
       <img src="images/cogging/Cogging7.png" width="300"><br>
@@ -60,6 +65,7 @@ Let us take an example of forming of round billet into square billet by simple c
     </td>
   </tr>
 </table>
+</div>
 <br>
 <b>Becking Opreation:</b> Becking operation or circular cogging operation is type of a cogging operation in which the ring is to be surface hardened. It is type of a hot forming process. In the cogging operation the billet is to be hammered continuously by number of blows. At each blow the translation is given to the billet in a direction. After the pass the billet is rotated and moved in opposite direction for the next pass between the two dies. In circular cogging/becking there is no need to make number of passes because after each revolution a new pass will be counted. Like the simple cogging process the hammer beats the ring and changes its grain structure at the surface.
 <br>
