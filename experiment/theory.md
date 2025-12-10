@@ -1,18 +1,16 @@
 ### Theory
 Cogging is a metalworking process used to improve the grains of a piece of metal. It is a hot metal forging technique involving two dies with shaped surfaces. The term "cogging" come from the fact that the metal is meant to be pressed into the shape of the die in the same way two cogs will fit into each other, though the shape of the die is not always rectangular.
 <br>
-<div style="display: flex; justify-content: center; align-items: flex-end; gap: 30px; flex-wrap: wrap;">
-
+<div style="display: flex; justify-content: center; align-items: flex-end; gap: 40px;">
   <div style="text-align: center;">
-    <img src="images/cogging/Cogging1.png" width="300">
-    <br><b>Figure 1:</b> Cogging Process
+    <img src="images/cogging/Cogging1.png" width="300"><br>
+    <b>Figure 1:</b> Cogging Process<br><br>
   </div>
 
   <div style="text-align: center;">
-    <img src="images/cogging/Cogging2.png" width="300">
-    <br><b>Figure 2:</b> Movement of billet and<br> the dies during cogging process
+    <img src="images/cogging/Cogging2.png" width="300"><br>
+    <b>Figure 2:</b> Movement of billet and<br> the dies during cogging process
   </div>
-
 </div>
 <br>
 Cogging is often an intermediate stage in the metalworking process. It is used to change the internal structure of ingots. An ingot is formed after raw metals have first been melted, then poured into moulds. The metal is then easier to handle, but will need to undergo further forging and tempering before it can be used. After cogging billets are refined pieces of metal which can then be forged or cast into more complex components.
@@ -24,11 +22,11 @@ During the cogging process, the ingot becomes a little longer with each blow. As
 Cogging metal is a long process that requires many adjustments. The metal will need to be reheated between strikes so that it remains malleable. The ingot may need hundreds of blows along its length before it reaches the desired shape and strength. Some forging machines have been developed to make this process easier. The number of strikes and the amount of force used can be programmed in so that the ingot remains uniform.
 Let us take an example of forming of round billet into square billet by simple cogging simulation.
 <br>
-<div style="display: flex; justify-content: center; align-items: flex-end; gap: 40px; margin-bottom: 40px;">
+<div style="display: flex; justify-content: center; align-items: flex-end; gap: 40px;">
 
   <div style="text-align: center;">
     <img src="images/cogging/Cogging3.png" width="300"><br>
-    <b>Figure 3:</b> Round billet after first pass
+    <b>Figure 3:</b> Round billet after first pass<br><br>
   </div>
 
   <div style="text-align: center;">
@@ -47,7 +45,7 @@ Let us take an example of forming of round billet into square billet by simple c
 
   <div style="text-align: center;">
     <img src="images/cogging/Cogging6.png" width="300"><br>
-    <b>Figure 6:</b> Final Square Billet
+    <b>Figure 6:</b> Final Square Billet<br><br>
   </div>
 
 </div>
