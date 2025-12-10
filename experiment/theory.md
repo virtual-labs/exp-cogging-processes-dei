@@ -1,20 +1,21 @@
 ### Theory
 Cogging is a metalworking process used to improve the grains of a piece of metal. It is a hot metal forging technique involving two dies with shaped surfaces. The term "cogging" come from the fact that the metal is meant to be pressed into the shape of the die in the same way two cogs will fit into each other, though the shape of the die is not always rectangular.
 <br>
-<div align="center">
-<table align="center">
-  <tr valign="top">
-    <td align="center" width="350">
-      <img src="images/cogging/Cogging1.png" width="300" style="margin-top:2px;"><br>
-      <b>Figure 1:</b> Cogging Process
-    </td>
-    <td align="center" width="350">
-      <img src="images/cogging/Cogging2.png" width="300" style="margin-top:2px;"><br>
-      <b>Figure 2:</b> Movement of billet and the dies during cogging process
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; width: 100%;">
+  <table style="margin: 0 auto; text-align: center;">
+    <tr valign="top">
+      <td width="350">
+        <img src="images/cogging/Cogging1.png" width="300" style="margin-top:2px;"><br>
+        <b>Figure 1:</b> Cogging Process
+      </td>
+      <td width="350">
+        <img src="images/cogging/Cogging2.png" width="300" style="margin-top:2px;"><br>
+        <b>Figure 2:</b> Movement of billet and the dies during cogging process
+      </td>
+    </tr>
+  </table>
 </div>
+
 <br>
 Cogging is often an intermediate stage in the metalworking process. It is used to change the internal structure of ingots. An ingot is formed after raw metals have first been melted, then poured into moulds. The metal is then easier to handle, but will need to undergo further forging and tempering before it can be used. After cogging billets are refined pieces of metal which can then be forged or cast into more complex components.
 
