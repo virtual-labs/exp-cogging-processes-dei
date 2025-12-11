@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multi Diameter Shaft with Strain - Simulation</title>
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+    <!-- Header with Logo -->
+    <header class="page-header">
+        <div class="header-container">
+            <img src="images/deiLogo.jpg" alt="DEI Logo" class="page-logo" />
+            <div class="header-text">
+                <h1 class="header-title">Virtual Lab Simulation Environment</h1>
+                <p class="header-subtitle">Metal Forming Processes</p>
+            </div>
+        </div>
+    </header>
+
+    <!-- Sidebar Navigation -->
+    <aside class="sidebar">
+        <nav class="nav-menu">
+            <div class="nav-section">
+                <h3 class="nav-title">Multi Diameter Shaft</h3>
+                <ul class="nav-list">
+                    <li><a href="mds-setup.html" class="nav-link">Multi Diameter Shaft Setup</a></li>
+                    <li><a href="mds-strain.html" class="nav-link active">Multi Diameter Shaft with Strain</a></li>
+                    <li><a href="mds-curve.html" class="nav-link">Multi Diameter Shaft with Curve</a></li>
+                </ul>
+            </div>
+            
+            <button class="back-button" onclick="window.location.href='index.html'">← Back to Selection</button>
+        </nav>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main class="main-content">
+        <h1 class="section-title">Multi Diameter Shaft with Strain</h1>
+        <div class="content-box">
+            <p>In the given simulation video of cogging, one can see the deformation of round billet into the multi diameter shaft. Initially the billet is heated at 1250°C and passed through the four piece die set. The upper and the lower die presses the billet in vertical direction whereas the left and right die presses the billet in horizontal direction and deform it laterally.</p>
+            
+            <p>After each blow the billet is moved in forward direction in steps. This ensures uniform deformation of billet. After one complete pass, the billet is passed through the dies in opposite direction. At the end of second pass, the round billet gets converted into a shaft of smaller dia. In the third pass billet is moved in forward direction in steps covering half of its length with the increased force of the dies. In further passes the force applied by dies on the billet is increased. Finally after six passes the billet is deformed into the multi diameter shaft.</p>
+            
+            <p>In the upper portion of the right hand simulation video, the set of 4 piece dies is shown with the various stages of shaft during the process of round billet into multi diameter billet. On the lower portion of the video the billet with meshing is shown. As the process continuous the change in the meshing takes place at points where pressure of billet is been applied.</p>
+            
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/7kxN1AZbgkc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
+    </main>
+
+    <script src="./js/main.js"></script>
+</body>
+</html>

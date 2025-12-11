@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Becking with Strain - Simulation</title>
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+    <!-- Header with Logo -->
+    <header class="page-header">
+        <div class="header-container">
+            <img src="images/deiLogo.jpg" alt="DEI Logo" class="page-logo" />
+            <div class="header-text">
+                <h1 class="header-title">Virtual Lab Simulation Environment</h1>
+                <p class="header-subtitle">Metal Forming Processes</p>
+            </div>
+        </div>
+    </header>
+
+    <!-- Sidebar Navigation -->
+    <aside class="sidebar">
+        <nav class="nav-menu">
+            <div class="nav-section">
+                <h3 class="nav-title">Becking</h3>
+                <ul class="nav-list">
+                    <li><a href="becking-setup.html" class="nav-link">Becking Setup</a></li>
+                    <li><a href="becking-strain.html" class="nav-link active">Becking with Strain</a></li>
+                </ul>
+            </div>
+            
+            <button class="back-button" onclick="window.location.href='index.html'">← Back to Selection</button>
+        </nav>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main class="main-content">
+        <h1 class="section-title">Becking with Strain</h1>
+        <div class="content-box">
+            <p>It is a special type of cogging process, in which cogging is done for surface hardening of the ring. There is a ring which has to be surface hardened, the hammer translates up and down and beats up the ring at each stroke, roller rotates the ring to a certain angle at each stroke, this will be made, so that ring is equally beaten up at whole surface and the whole surface get hardened.</p>
+            
+            <p>You can also see the equivalent strain generated in the ring. At each stroke, a slight strain is produced at the surface of the ring. After each full revolution of the ring the same points are again beaten up by the hammer which will increase the equivalent strain further. Change in the value of equivalent strain refers to the refinement of the microstructure of the material. Higher the equivalent strain more finer is the microstructure.</p>
+            
+            <p>The temperature decreases as the process move to forward step, at each stroke some of the heat by the ring is lost to the roller and hammer. The temperature distribution is uniform at volume level. The value of working temperature decides whether the microstructure would be fine or coarse. Lower temperature result in fine grain structure.</p>
+            
+            <div class="video-container">
+                <iframe src="https://www.youtube.com/embed/x2Bnh8-lb3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
+    </main>
+
+    <script src="./js/main.js"></script>
+</body>
+</html>
