@@ -2,38 +2,90 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In the video shown in the cogging module, the material is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Steel",
+        "b": "Aluminium",
+        "c": "Copper",
+        "d": "None of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Steel is commonly used in cogging demonstrations due to its high-temperature workability.",
+        "b": "Aluminium is forgeable but was not used in the given simulation.",
+        "c": "Copper is used in forming, but not in this module’s demonstration.",
+        "d": "Incorrect because steel was used."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The press used in the simulation of cogging operation is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Hydraulic press",
+        "b": "Screw press",
+        "c": "Mechanical press",
+        "d": "None of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Cogging requires controlled, slow, and high-force compression—hydraulic presses are ideal for this.",
+        "b": "Screw presses deliver impact, not slow continuous pressure.",
+        "c": "Mechanical presses are used for high-speed operations, unsuitable for cogging.",
+        "d": "Incorrect because hydraulic press was used."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The temperature of the billet used in the simulation of cogging process is:",
+      "answers": {
+        "a": "25° C",
+        "b": "100° C",
+        "c": "1100° C",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Cold cogging is impractical as the forces required would be extremely high.",
+        "b": "100°C is far below forging temperature for steel.",
+        "c": "Steel is typically cogged at 1100–1250°C, making this the correct hot-working temperature.",
+        "d": "Incorrect as 1100°C matches standard forging temperature."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "The number of passes used to convert round billet into square billet in cogging process simulation are:",
+      "answers": {
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "8"
+      },
+      "explanations": {
+        "a": "Two passes are insufficient to obtain a square section from a round billet.",
+        "b": "Three passes still do not generate a fully square shape.",
+        "c": "Four passes (with 90° rotations) are standard to convert round to square.",
+        "d": "Eight passes would be excessive for a simple square section."
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Which of the following material cannot be cogged:",
+      "answers": {
+        "a": "Steel",
+        "b": "Aluminium",
+        "c": "Lead",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Steel is widely cogged at high temperature.",
+        "b": "Aluminium can be cogged easily due to good ductility.",
+        "c": "Lead is soft and can undergo plastic deformation, so it can also be cogged.",
+        "d": "All listed materials are forgeable and can be cogged, so none of them is excluded."
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
     }
   ]
 }
+
