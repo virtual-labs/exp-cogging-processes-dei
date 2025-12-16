@@ -15,8 +15,7 @@
         "c": "Copper is used in forming, but not in this module’s demonstration.",
         "d": "Incorrect because steel was used."
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "a"
     },
     {
       "question": "The press used in the simulation of cogging operation is:",
@@ -32,8 +31,7 @@
         "c": "Mechanical presses are used for high-speed operations, unsuitable for cogging.",
         "d": "Incorrect because hydraulic press was used."
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "a"
     },
     {
       "question": "The temperature of the billet used in the simulation of cogging process is:",
@@ -49,8 +47,7 @@
         "c": "Steel is typically cogged at 1100–1250°C, making this the correct hot-working temperature.",
         "d": "Incorrect as 1100°C matches standard forging temperature."
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "c"
     },
     {
       "question": "The number of passes used to convert round billet into square billet in cogging process simulation are:",
@@ -66,8 +63,7 @@
         "c": "Four passes (with 90° rotations) are standard to convert round to square.",
         "d": "Eight passes would be excessive for a simple square section."
       },
-      "correctAnswer": "c",
-      "difficulty": "intermediate"
+      "correctAnswer": "c"
     },
     {
       "question": "Which of the following material cannot be cogged:",
@@ -83,8 +79,7 @@
         "c": "Lead is soft and can undergo plastic deformation, so it can also be cogged.",
         "d": "All listed materials are forgeable and can be cogged, so none of them is excluded."
       },
-      "correctAnswer": "d",
-      "difficulty": "intermediate"
+      "correctAnswer": "d"
     }
   ]
 }

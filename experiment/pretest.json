@@ -15,8 +15,8 @@
         "c": "Hot working during cogging breaks down coarse grains and improves internal grain structure.",
         "d": "Cogging simultaneously reduces cross-section, increases length, and refines grain structure—hence all statements are correct."
       },
-      "correctAnswer": "d",
-      "difficulty": "beginner"
+      "correctAnswer": "d"
+      
     },
     {
       "question": "Which of the following shaped billet can be produced by the cogging operation:",
@@ -32,8 +32,7 @@
         "c": "By sequential compression at angles, polygonal sections like hexagon can be produced.",
         "d": "Cogging can generate a wide range of cross-sectional shapes depending on pass schedule and die setup."
       },
-      "correctAnswer": "d",
-      "difficulty": "intermediate"
+      "correctAnswer": "d"
     },
     {
       "question": "What is the advantage of cogging operation:",
@@ -49,8 +48,7 @@
         "c": "Various shapes can be achieved through controlled sequencing of blows and rotations.",
         "d": "Cogging provides all these benefits—grain refinement, dimensional reduction, and shape modification."
       },
-      "correctAnswer": "d",
-      "difficulty": "intermediate"
+      "correctAnswer": "d"
     },
     {
       "question": "The cogging is done at which stage of the metal forming process:",
@@ -66,8 +64,7 @@
         "c": "Finishing processes happen after primary breakdown; cogging is not one of them.",
         "d": "Incorrect because cogging is clearly a primary breakdown step."
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "a"
     },
     {
       "question": "By cogging operation the ingot is converted into:",
@@ -83,8 +80,7 @@
         "c": "Blooms are larger cross-sections; cogging usually aims at billets (smaller).",
         "d": "Sheets are produced by rolling, not by cogging."
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "a"
     }
   ]
 }
