@@ -73,7 +73,7 @@ Let us take an example of forming of round billet into square billet by simple c
 <br>
 <br>
 <div align="center">
-  <img src="images/cogging/Becking.png" width="400" alt="Becking Operation">
+  <img src="images/cogging/Becking.png" width="300" alt="Becking Operation">
   <br>
   <br>
   <b>Figure 9:</b> Becking Operation
@@ -83,7 +83,7 @@ Let us take an example of forming of round billet into square billet by simple c
 <br>
 <br>
 <div align="center">
-  <img src="images/cogging/GrainStructure.png" width="600" alt="Becking Operation">
+  <img src="images/cogging/GrainStructure.png" width="500" alt="Becking Operation">
   <br>
   <br>
   <b>Figure 10:</b> Change in grain structure in the ring and<br> equivalent strain generated after the operation
