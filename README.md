@@ -4,7 +4,7 @@
 <b>Discipline | <b>Mechanical Engineering
 :--|:--|
 <b> Lab | <b> Metal Forming Virtual Simulation Lab (Processes)
-<b> Experiment|     <b> Cogging Process
+<b> Experiment|     <b> Cogging Processes
 
 ### About the Experiment 
 
