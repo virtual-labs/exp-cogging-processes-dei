@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The purpose of cogging operation is:",
+      "question": "Q1. The purpose of cogging operation is:",
       "answers": {
         "a": "To reduce the cross-section of the billet",
         "b": "To increase the length of the billet",
@@ -19,7 +19,7 @@
       
     },
     {
-      "question": "Which of the following shaped billet can be produced by the cogging operation:",
+      "question": "Q2. Which of the following shaped billet can be produced by the cogging operation:",
       "answers": {
         "a": "Round shape",
         "b": "Rectangular",
@@ -35,7 +35,7 @@
       "correctAnswer": "d"
     },
     {
-      "question": "What is the advantage of cogging operation:",
+      "question": "Q3. What is the advantage of cogging operation:",
       "answers": {
         "a": "Internal grain structure is improved",
         "b": "Size of the billet can be reduced",
@@ -51,7 +51,7 @@
       "correctAnswer": "d"
     },
     {
-      "question": "The cogging is done at which stage of the metal forming process:",
+      "question": "Q4. The cogging is done at which stage of the metal forming process:",
       "answers": {
         "a": "Initial stage",
         "b": "Intermediate stage",
@@ -67,7 +67,7 @@
       "correctAnswer": "a"
     },
     {
-      "question": "By cogging operation the ingot is converted into:",
+      "question": "Q5. By cogging operation the ingot is converted into:",
       "answers": {
         "a": "Billet",
         "b": "Slab",
