@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cogging with Strain - Simulation</title>
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+    <!-- Sidebar Navigation -->
+    <aside class="sidebar">
+        <nav class="nav-menu">
+            <div class="nav-section">
+                <h3 class="nav-title">Cogging</h3>
+                <ul class="nav-list">
+                    <li><a href="cogging-setup.html" class="nav-link">Cogging Setup</a></li>
+                    <li><a href="cogging-strain.html" class="nav-link active">Cogging with Strain</a></li>
+                </ul>
+            </div>
+            
+            <button class="back-button" onclick="window.location.href='index.html'">← Back to Selection</button>
+        </nav>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main class="main-content">
+        <!-- Header with Logo -->
+        <div class="content-header">
+            <img src="images/deiLogo.jpg" alt="DEI Logo" class="content-logo" />
+            <div class="header-text">
+                <h1 class="header-title">Virtual Lab Simulation Environment</h1>
+                <p class="header-subtitle">Metal Forming Processes</p>
+            </div>
+        </div>
+        
+        <h1 class="section-title">Cogging with Strain</h1>
+        <div class="content-box">
+            <div class="video-container">
+                <video controls>
+                    <source src="Cogging/CoggingStrain.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+
+            <br>
+            
+            <p>Cogging is an intermediate stage in the metalworking process. It is used to change the internal structure of ingots. In this process the red hot billet is passed through dies and deformed by compressing it in steps. After one pass the billet is again rotated and again passed through dies for deformation. With successive deformation the grain structure of the billet improves and one can get the desired shape like square, hexagonal or round shape.</p>
+            
+            <p>Now one can depict from the left hand simulation video, cogging process of round billet into square billet. On the left hand side the video shows the variation of temperature of the billet during the cogging process. Initially the temperature of billet is 1250°C. But during the multi-pass cogging process the billet temperature starts reducing and reaches up to 900°C up to second pass.</p>
+            
+            <p>In the right hand simulation video one can depict the variation of equivalent strain in the billet during cogging process. Initially the equivalent strain in the billet is zero. During successive passes of cogging process the strain in various regions of billet increases. Greater strain in the billet indicates severe deformation of material and hence better grain structure. In the video one can see the equivalent strain at the centre of billet and the surface of the billet. Up to second pass the billet equivalent strain reaches to 1.054.</p>
+        </div>
+    </main>
+
+    <script src="./js/main.js"></script>
+</body>
+</html>
