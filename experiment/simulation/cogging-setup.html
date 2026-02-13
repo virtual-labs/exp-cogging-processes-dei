@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cogging Setup - Simulation</title>
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+    <!-- Sidebar Navigation -->
+    <aside class="sidebar">
+        <nav class="nav-menu">
+            <div class="nav-section">
+                <h3 class="nav-title">Cogging</h3>
+                <ul class="nav-list">
+                    <li><a href="cogging-setup.html" class="nav-link active">Cogging Setup</a></li>
+                    <li><a href="cogging-strain.html" class="nav-link">Cogging with Strain</a></li>
+                </ul>
+            </div>
+            
+            <button class="back-button" onclick="window.location.href='index.html'">← Back to Selection</button>
+        </nav>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main class="main-content">
+        <!-- Header with Logo -->
+        <div class="content-header">
+            <img src="images/deiLogo.jpg" alt="DEI Logo" class="content-logo" />
+            <div class="header-text">
+                <h1 class="header-title">Virtual Lab Simulation Environment</h1>
+                <p class="header-subtitle">Metal Forming Processes</p>
+            </div>
+        </div>
+        
+        <h1 class="section-title">Cogging Setup</h1>
+        <div class="content-box">
+            <div class="video-container">
+                <video controls>
+                    <source src="Cogging/CoggingCurve.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+            <br>
+            
+            <p>Cogging is a metalworking process used to improve the grains of a piece of metal. It is a hot metal forging technique involving two dies with shaped surfaces. It is used to the deform the structure of ingots. After cogging billets are refined pieces of metal which can then be forged or cast into more complex components.</p>
+            
+            <p>In the given simulation video of cogging, one can see the deformation of round billet into square shape. Initially the billet is heated above 1000°C and passed through the upper and lower die. The upper and the lower die presses the billet in vertical direction and deform it laterally. After each blow the billet is moved in forward direction in steps. This ensures uniform deformation of billet.</p>
+            
+            <p>After one complete pass, the billet is rotated through 90° in clockwise direction. With the rotation, the billet is passed through the dies in opposite direction. At the end of second pass, the round billet gets converted into a square one.</p>
+            
+            <p>The graph in the simulation video shows the variation of the force applied by the upper and the lower die on the round billet. From the graph one can depict that with the successive passes, the force required for the deformation of billet increases. This is due to grain structure improvement of the billet on deformation at high temperature with successive blows. The process is repeated till the desired dimension is obtained with proper grain structure and material properties.</p>
+        </div>
+    </main>
+
+    <script src="./js/main.js"></script>
+</body>
+</html>

@@ -2,38 +2,86 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The purpose of cogging operation is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To reduce the cross-section of the billet",
+        "b": "To increase the length of the billet",
+        "c": "To improve the grain structure",
+        "d": "All of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Cogging reduces the cross-sectional area by repeated compressive blows.",
+        "b": "As the cross-section reduces, the billet elongates along its length.",
+        "c": "Hot working during cogging breaks down coarse grains and improves internal grain structure.",
+        "d": "Cogging simultaneously reduces cross-section, increases length, and refines grain structure—hence all statements are correct."
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "d"
+      
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following shaped billet can be produced by the cogging operation:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Round shape",
+        "b": "Rectangular",
+        "c": "Hexagonal",
+        "d": "All of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Round billets can be formed by controlling die geometry during cogging.",
+        "b": "Rectangular or square sections are commonly produced from ingots through cogging passes.",
+        "c": "By sequential compression at angles, polygonal sections like hexagon can be produced.",
+        "d": "Cogging can generate a wide range of cross-sectional shapes depending on pass schedule and die setup."
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "d"
+    },
+    {
+      "question": "What is the advantage of cogging operation:",
+      "answers": {
+        "a": "Internal grain structure is improved",
+        "b": "Size of the billet can be reduced",
+        "c": "Different cross-section shape can be achieved",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "Cogging is a hot-working process that breaks dendritic grains and improves mechanical properties.",
+        "b": "Repeated deformation reduces the billet’s cross-sectional dimension.",
+        "c": "Various shapes can be achieved through controlled sequencing of blows and rotations.",
+        "d": "Cogging provides all these benefits—grain refinement, dimensional reduction, and shape modification."
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "question": "The cogging is done at which stage of the metal forming process:",
+      "answers": {
+        "a": "Initial stage",
+        "b": "Intermediate stage",
+        "c": "At the end",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Cogging is the first breakdown operation performed on cast ingots to convert them into workable billets.",
+        "b": "Intermediate processing involves rolling or forging, not cogging.",
+        "c": "Finishing processes happen after primary breakdown; cogging is not one of them.",
+        "d": "Incorrect because cogging is clearly a primary breakdown step."
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "question": "By cogging operation the ingot is converted into:",
+      "answers": {
+        "a": "Billet",
+        "b": "Slab",
+        "c": "Bloom",
+        "d": "Sheet"
+      },
+      "explanations": {
+        "a": "Cogging is specifically used to convert large cast ingots into billets for further processing.",
+        "b": "Slabs are formed mainly by rolling, not cogging.",
+        "c": "Blooms are larger cross-sections; cogging usually aims at billets (smaller).",
+        "d": "Sheets are produced by rolling, not by cogging."
+      },
+      "correctAnswer": "a"
     }
   ]
 }
+
